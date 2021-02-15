@@ -3,5 +3,6 @@
 ## An easy way to display characters on LCD(16,2)
 
 ## APIs
-  lcd_cmdwrite(uint8_t cmd)
+  lcd_init()
+  lcd_clear()
   
