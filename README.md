@@ -4,5 +4,5 @@
 
 ## APIs
   lcd_init()
-    lcd_clear()
+  lcd_clear()
   
